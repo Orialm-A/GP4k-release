@@ -1,0 +1,58 @@
+<RCC>
+<qresource prefix="/" >
+    <file>./Resources/trie_word_list.txt</file>
+
+    <file>./Resources/tile_inner_axes.svg</file>
+    <file>./Resources/tile_inner_diag.svg</file>
+    <file>./Resources/tile_outer_axes.svg</file>
+    <file>./Resources/tile_outer_diag.svg</file>
+    <file>./Resources/tile_inner_axes_selected.svg</file>
+    <file>./Resources/tile_inner_diag_selected.svg</file>
+    <file>./Resources/tile_outer_axes_selected.svg</file>
+    <file>./Resources/tile_outer_diag_selected.svg</file>
+    <file>./Resources/tile_inner_axes_unavailable.svg</file>
+    <file>./Resources/tile_inner_diag_unavailable.svg</file>
+
+    <file>./Resources/Icons/Sticks.svg</file>
+
+    <file>./Resources/Icons/Xbox/A.svg</file>
+    <file>./Resources/Icons/Xbox/B.svg</file>
+    <file>./Resources/Icons/Xbox/DOWN.svg</file>
+    <file>./Resources/Icons/Xbox/LB.svg</file>
+    <file>./Resources/Icons/Xbox/LEFT.svg</file>
+    <file>./Resources/Icons/Xbox/LT.svg</file>
+    <file>./Resources/Icons/Xbox/RB.svg</file>
+    <file>./Resources/Icons/Xbox/RIGHT.svg</file>
+    <file>./Resources/Icons/Xbox/UP.svg</file>
+    <file>./Resources/Icons/Xbox/X.svg</file>
+    <file>./Resources/Icons/Xbox/Y.svg</file>
+    <file>./Resources/Icons/Xbox/center.svg</file>
+
+    <file>./Resources/Icons/Nintendo/A.svg</file>
+    <file>./Resources/Icons/Nintendo/B.svg</file>
+    <file>./Resources/Icons/Nintendo/DOWN.svg</file>
+    <file>./Resources/Icons/Nintendo/LB.svg</file>
+    <file>./Resources/Icons/Nintendo/LEFT.svg</file>
+    <file>./Resources/Icons/Nintendo/LT.svg</file>
+    <file>./Resources/Icons/Nintendo/RB.svg</file>
+    <file>./Resources/Icons/Nintendo/RIGHT.svg</file>
+    <file>./Resources/Icons/Nintendo/UP.svg</file>
+    <file>./Resources/Icons/Nintendo/X.svg</file>
+    <file>./Resources/Icons/Nintendo/Y.svg</file>
+
+    <file>./Resources/Icons/Playstation/A.svg</file>
+    <file>./Resources/Icons/Playstation/B.svg</file>
+    <file>./Resources/Icons/Playstation/DOWN.svg</file>
+    <file>./Resources/Icons/Playstation/LB.svg</file>
+    <file>./Resources/Icons/Playstation/LEFT.svg</file>
+    <file>./Resources/Icons/Playstation/LT.svg</file>
+    <file>./Resources/Icons/Playstation/RB.svg</file>
+    <file>./Resources/Icons/Playstation/RIGHT.svg</file>
+    <file>./Resources/Icons/Playstation/UP.svg</file>
+    <file>./Resources/Icons/Playstation/X.svg</file>
+    <file>./Resources/Icons/Playstation/Y.svg</file>
+    <file>./Resources/Icons/Playstation/center.svg</file>
+
+
+</qresource>
+</RCC>
